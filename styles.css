@@ -353,7 +353,20 @@ input[type="submit"], input[type="email"]{
     gap: 1.6rem;
 }
 
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
 
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+/* END FOOTER */
+
+
+
+
+/* FOR LAPTOPS */
 @media screen and (min-width: 1024px) {
     html {
         font-size: 12px

@@ -354,8 +354,9 @@ input[type="submit"], input[type="email"]{
 }
 
 .attribution {
-    font-size: 11px;
+    font-size: 1.6rem;
     text-align: center;
+    margin-bottom: 2rem;
 }
 
 .attribution a {

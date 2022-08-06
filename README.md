@@ -1,2 +1,2 @@
 # Huddle-landing-page
-Live view: zaynehhuddle.vercel.app
+Live view: zayne-huddle.vercel.app
